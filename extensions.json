@@ -1,10 +1,11 @@
 {
       "active": true,
-      "imgSrc": "conf-check.svg",
+      "imgSrc": "https://avatars1.githubusercontent.com/u/9912468?s=460&v=4",
       "requiredExtensions": [
-        "frontend_master"
+        "frontend_master",
+        "frontend-extension-archconfcheck_master"
       ],
       "incompatibleExtensions": [
-        "backend_master"
+        "backend-extension-vr_master"
       ]
 }

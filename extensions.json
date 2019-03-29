@@ -6,6 +6,6 @@
         "frontend-extension-archconfcheck_master"
       ],
       "incompatibleExtensions": [
-        "backend-extension-vr_master"
+        "backend-extension-vr"
       ]
 }

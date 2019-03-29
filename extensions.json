@@ -1,0 +1,10 @@
+{
+      "active": true,
+      "imgSrc": "conf-check.svg",
+      "requiredExtensions": [
+        "frontend_master"
+      ],
+      "incompatibleExtensions": [
+        "backend_master"
+      ]
+}
